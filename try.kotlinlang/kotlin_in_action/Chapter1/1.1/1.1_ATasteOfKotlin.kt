@@ -7,7 +7,7 @@ data class Person(val name: String,
 fun main(args: Array<String>) {
     val persons = listOf(Person("Alice", "alice@mgail.com", 35),
                          Person("Lucy", "lucy@gmail.com", 30),
-                         Person("Bob", "bob", 29))
+                         Person("Bob", "bob@gmail.com", 29))
 
     val oldest = persons.maxBy { it.age ?: 0 }
     println("The oldest is: $oldest")
