@@ -7,6 +7,8 @@
   Kotlin was created by JetBrains with the goal of being a concise and secure programming language for web, mobile and desktop development, with a broad set of tools and easy-to-use IDEs.
  </p>
  
+ <hr/>
+ 
  ## Source:
  
  <a href="https://www.devmedia.com.br/guia/linguagem-kotlin/40739">Devmedia</a>
